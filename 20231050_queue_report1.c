@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdbool.h>
 
-#define SIZE 5
+#define SIZE 30
 
 typedef struct{
     int data[SIZE];
